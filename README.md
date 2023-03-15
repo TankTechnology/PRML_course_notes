@@ -6,4 +6,6 @@ Welcome to my respository of notes about the course Pattern Recognition and Mach
 
 If you have any suggestions or corrections to my notes, please create a pull request or open an issue. Your contributions are greatly appreciated!
 
-Thank you for visiting my Pattern Recognition and Machine Learning notes repository, and happy learning!
+## Conclusion
+
+Thank you for visiting my Pattern Recognition and Machine Learning notes repository, and have a happy learning!
